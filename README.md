@@ -13,7 +13,7 @@ Exploring the impacts of aerosol, precipitation and meteorological factors on op
   - Emily
   - Britty
 - Precipitation
-  - Zhaojong
+  - Zhaojang
   - Carl
 - Aerosols
   - Jason
